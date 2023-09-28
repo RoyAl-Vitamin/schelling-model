@@ -1,0 +1,10 @@
+//
+// Created by alex on 15.09.2023.
+//
+
+#ifndef SCHELLING_HOME_STATUS_CPP
+#define SCHELLING_HOME_STATUS_CPP
+
+enum HomeStatus { EMPTY, COMMUNITY_1, COMMUNITY_2 };
+
+#endif //SCHELLING_HOME_STATUS_CPP
